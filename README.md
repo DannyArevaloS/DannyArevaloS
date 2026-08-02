@@ -1,4 +1,4 @@
-¡Hola! 👋 Soy Daniel Arévalo
+¡Hola! 👋 Soy Danny Arévalo
 
 Soy desarrollador de software especializado en Dynamics 365, Salesforce y arquitecturas Cloud con AWS y Azure. Me gusta crear soluciones que resuelvan problemas reales, desde integraciones y automatización de procesos hasta aplicaciones escalables y mantenibles.
 

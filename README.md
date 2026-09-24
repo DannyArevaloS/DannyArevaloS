@@ -1,11 +1,19 @@
-¡Hola! 👋 Soy Danny Arévalo
+# ¡Hola! 👋 Soy Danny Arévalo
 
-Soy desarrollador de software especializado en Dynamics 365, Salesforce y arquitecturas Cloud con AWS y Azure. Me gusta crear soluciones que resuelvan problemas reales, desde integraciones y automatización de procesos hasta aplicaciones escalables y mantenibles.
+Soy desarrollador de software especializado en **Dynamics 365, Salesforce y arquitecturas Cloud con AWS y Microsoft Azure**.
 
-Actualmente trabajo principalmente con C#, .NET, Java, JavaScript y Python, aunque siempre estoy aprendiendo nuevas tecnologías y buenas prácticas de desarrollo para seguir creciendo como profesional.
+Trabajo principalmente con **.NET, Java, JavaScript y Python**, con especial interés en:
 
-En este GitHub https://github.com/DannyArevaloS comparto proyectos personales, experimentos y herramientas con las que sigo aprendiendo y poniendo a prueba nuevas ideas. Uno de los proyectos en los que más he aprendido es GABI, donde he trabajado en el desarrollo de una aplicación Android y una arquitectura serverless sobre AWS.
+- Desarrollo backend
+- Arquitectura de software
+- Cloud computing
+- Automatización e integraciones
+- Soluciones sobre Dynamics 365 y Salesforce
 
-Me interesa especialmente la arquitectura de software, el desarrollo backend, el cloud computing y la automatización. Disfruto escribiendo código limpio, entendiendo el problema antes de desarrollar la solución y mejorando continuamente tanto el software como mi forma de trabajar.
+En este GitHub comparto proyectos personales, experimentos y herramientas que utilizo para aprender, probar nuevas ideas y profundizar en distintas tecnologías.
+
+Uno de mis proyectos principales es **GABI (Gestión Administrativa de Bienestar Integral para Residencias)**, donde he trabajado en el desarrollo de una aplicación Android y en el diseño e implementación de una arquitectura **serverless sobre AWS**.
+
+Me gusta escribir código limpio, construir soluciones mantenibles y entender bien el problema antes de empezar a desarrollar.
 
 📫 Siempre estoy abierto a colaborar, aprender y participar en proyectos interesantes.
